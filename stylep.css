@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Playwrite PL", cursive;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.intro{
+    background-image: url(intro.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 100%;
+}
+.earth{
+    background-image: url(earth.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 100%;
+}
+.water{
+    background-image: url(water.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 100%;
+}
+.fire{
+    background-image: url(fire.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 100%;
+}
+.air{
+    background-image: url(wind.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 100%;
+}
+.space{
+    background-image: url(space.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 100%;
+}
+.end{
+    background-image: url(end.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 100%;
+}
+.ele{
+    background-color: rgba(0,0,0,0.3);
+    color: lightgray;
+    padding: 1rem 5rem;
+    align-self: flex-end;
+}
